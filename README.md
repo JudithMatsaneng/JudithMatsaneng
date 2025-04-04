@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Engineer Technical Lead Projects:</h2>
 
 - <b>JWipe - Disk Sanitization</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Disk Sanitation](https://github.com/JudithMatsaneng/JWipe---Disk-Sanitization)
     
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
